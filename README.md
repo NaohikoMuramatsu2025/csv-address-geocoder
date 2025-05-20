@@ -14,6 +14,7 @@
 ---
 
 ## フォルダ構成
+```plaintext
 csv_address_geocoder/
 ├── Input/ # 入力CSVファイルを配置
 ├── Output/ # 出力CSV・GeoJSONが保存されます
